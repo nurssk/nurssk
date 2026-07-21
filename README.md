@@ -3,6 +3,8 @@
 ```txt
 +--------------------------------------------------------------+
 |                                                              |
+|   HI! I'M NURSULTAN                                          |
+|                                                              |
 |   Degr1s / Nurssk                                            |
 |   Full-stack Developer & UI/UX Designer                      |
 |                                                              |
@@ -30,7 +32,7 @@ I work across full-stack web development and UI/UX design, with a focus on inter
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,tailwind,firebase,git,github,docker" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Tailwind CSS, Firebase, Git, GitHub, Docker" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,tailwind,firebase,nodejs,threejs,html,css,dart,swift,kotlin,cpp,c,git,github" alt="TypeScript, JavaScript, React, Next.js, Astro, Tailwind CSS, Firebase, Node.js, Three.js, HTML, CSS, Dart, Swift, Kotlin, C++, C, Git, GitHub" />
 </p>
 
 ## Featured Projects
