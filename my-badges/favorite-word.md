@@ -5,8 +5,8 @@
 My favorite commit message words are:
 
 1. fix (used 17 times)
-2. change (used 13 times)
-3. project (used 13 times)
+2. project (used 14 times)
+3. change (used 13 times)
 4. first (used 9 times)
 5. commit (used 8 times)
 
