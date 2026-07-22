@@ -1,18 +1,11 @@
 <div align="center">
 
-```txt
-+--------------------------------------------------------------+
-|                                                              |
-|   HI! I'M NURSULTAN                                          |
-|                                                              |
-|   Degr1s / Nurssk                                            |
-|   Full-stack Developer & UI/UX Designer                      |
-|                                                              |
-|   I build clean web products with thoughtful interfaces,     |
-|   reliable app logic, and a practical product mindset.       |
-|                                                              |
-+--------------------------------------------------------------+
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=34&amp;duration=2800&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=90&amp;lines=HI!+I%27M+NURSULTAN;Full-stack+Developer+%26+UI%2FUX+Designer" alt="Typing SVG" />
+
+<p>
+  <strong>Degr1s / Nurssk</strong><br />
+  I build clean web products with thoughtful interfaces, reliable app logic, and a practical product mindset.
+</p>
 
 <p>
   <a href="https://github.com/Nurssk">
@@ -24,29 +17,6 @@
 </p>
 
 </div>
-
-### `nursultan@github ~ $ whoami`
-
-<table>
-  <tr>
-    <td width="38%" align="center">
-      <img src="assets/nursultan.jpg" width="260" alt="Nursultan portrait" />
-    </td>
-    <td width="62%">
-      <h3>Who am I?</h3>
-      <p>
-        I'm Nursultan, also known as <strong>Degr1s</strong> / <strong>Nurssk</strong>.
-        I work across full-stack development and UI/UX design, building web products that feel clear, fast, and useful.
-      </p>
-      <p>
-        I care about thoughtful interfaces, clean frontend structure, reliable app logic, and practical product decisions.
-      </p>
-      <p>
-        <strong>Current focus:</strong> React, Next.js, Astro, TypeScript, Firebase, motion, and product-grade UI.
-      </p>
-    </td>
-  </tr>
-</table>
 
 ## Tech Stack
 
