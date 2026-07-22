@@ -25,9 +25,28 @@
 
 </div>
 
-## About
+### `nursultan@github ~ $ whoami`
 
-I work across full-stack web development and UI/UX design, with a focus on interfaces that feel clear, fast, and useful. I like building product-minded web apps where design quality, frontend structure, and backend logic support the same user goal.
+<table>
+  <tr>
+    <td width="38%" align="center">
+      <img src="assets/nursultan.jpg" width="260" alt="Nursultan portrait" />
+    </td>
+    <td width="62%">
+      <h3>Who am I?</h3>
+      <p>
+        I'm Nursultan, also known as <strong>Degr1s</strong> / <strong>Nurssk</strong>.
+        I work across full-stack development and UI/UX design, building web products that feel clear, fast, and useful.
+      </p>
+      <p>
+        I care about thoughtful interfaces, clean frontend structure, reliable app logic, and practical product decisions.
+      </p>
+      <p>
+        <strong>Current focus:</strong> React, Next.js, Astro, TypeScript, Firebase, motion, and product-grade UI.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
