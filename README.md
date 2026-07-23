@@ -51,6 +51,22 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <h3>
+        <a href="https://github.com/nurssk/NotLikeAi">NotLikeAi</a>
+      </h3>
+      <p>
+        A web project for making AI-generated interfaces feel more human, intentional, and product-ready.
+      </p>
+      <p>
+        <strong>Focus:</strong> Astro, TypeScript, CSS, JavaScript, design polish, AI UI humanization.
+      </p>
+      <p>
+        <a href="https://humanize-ui.vercel.app">Live demo</a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ## My Badges
